@@ -146,3 +146,5 @@ Average speed
 Total number of pizzas
 
 If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?
+
+Solution------>[Click here](https://github.com/10tanmay100/8-Sql-danny-Dinner-Case-Study/upload/main)
