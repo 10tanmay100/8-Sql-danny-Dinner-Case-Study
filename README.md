@@ -1,4 +1,4 @@
-# 8-Sql-danny-Dinner-Case-Study
+# 8-Sql-danny-pizza Runner-Case-Study
 
 ![2](https://user-images.githubusercontent.com/72690313/133872499-a17e050d-bb62-4b05-b3d0-d16c1af645b3.png)
 ### Introduction
